@@ -22,18 +22,20 @@ npm install e-utils -S
 
 ##### Device
 
-​		[getIsMobile](https://github.com/yml-qq/yml-utils/blob/main/src/device/getIsMobile.ts)                           获取是否是移动端
+​		[getIsMobile](https://github.com/yml-qq/e-utils/blob/main/src/device/getIsMobile.ts)                           获取是否是移动端
 
 ##### Storage
 
-​		[storage](https://github.com/yml-qq/yml-utils/blob/main/src/storage/storage.ts)                                  Web Storage
+​		[storage](https://github.com/yml-qq/e-utils/blob/main/src/storage/storage.ts)                                  Web Storage
 
 ##### Object
 
-​		[deepClone](https://github.com/yml-qq/yml-utils/blob/main/src/object/deepClone.ts)                            深拷贝
+​		[deepClone](https://github.com/yml-qq/e-utils/blob/main/src/object/deepClone.ts)                            深拷贝
 
 **String**
 
-​		[trim](https://github.com/yml-qq/yml-utils/blob/main/src/string/trim.ts)                                        去除字符串空格
+​		[trim](https://github.com/yml-qq/e-utils/blob/main/src/string/trim.ts)                                        去除字符串空格
+
+**Vue**
 
 ​		
