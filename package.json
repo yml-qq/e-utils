@@ -24,7 +24,7 @@
     "utils"
   ],
   "author": "yml",
-  "license": "ISC",
+  "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
